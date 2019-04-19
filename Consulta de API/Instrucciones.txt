@@ -1,0 +1,9 @@
+# Instrucciones 
+1- para poder ejecutar el programa necesitamos abrir la ubicacion de nuestro programa desde el cmd 
+se puede hacer de forma sencilla dirigiendonos la carpeta donde esta nuestro archivo .py y en la barra de direcciones de windows 
+escribimos cmd y nos abrira la ventana
+2- ejecutamos el comando python nombredelarchivo.py 
+3- el programa nos pedira el codigo del pais para poder hacer la consulta en caso de no contar con esa informacion
+consulte la informacion en este enlace https://country-code.cl/es/ los codigos son los de la columna ISO 3
+4- el programa realizara la busqueda devolviendo los valores del pais correspondiente (nombre, capital, bandera como un url 
+y poblacion.
